@@ -20,4 +20,4 @@ Como no subi datos?, las bases de proteoma, consultas y hits se vuelven a genera
 - "tabla candidatos.tsv" : cromosoma, posicion y simbolo -> de los candidatos
 - "mejores.tsv" : mejor hit (por bitscore) de cada una de las 72 consultas
 "familia_lgr.aln.faa" : alineamiento con "mafft --auto" (L-INS-i) de los 6 candidatos + 4 referencias LGR5.
-
+- "Sesion8.md" resultados de preguntas y párrafo de conclusión.
